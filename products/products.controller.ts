@@ -3,8 +3,8 @@ import path from 'path';
 import { readData, writeData } from "../utils/fileUtils";
 import { Order, Product } from "../types";
 
-const productsFilePath = path.join(__dirname, 'data', 'products.json');
-const ordersFilePath = path.join(__dirname, 'data', 'orders.json');
+const productsFilePath = path.join('data', 'products.json');
+const ordersFilePath = path.join('data', 'orders.json');
 
 
 

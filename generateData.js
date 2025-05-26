@@ -1,8 +1,8 @@
 const fs = require("fs").promises;
 const path = require("path");
 
-const NUM_PRODUCTS = 1000;
-const NUM_ORDERS = 500;
+const NUM_PRODUCTS = 100;
+const NUM_ORDERS = 50;
 
 // --- Helper Data ---
 const productCategories = [
@@ -123,7 +123,7 @@ async function generateOrders(products) {
       orderId: `o${i + 1}`, // o1, o2, ...
       productId: product.id,
       // Optional: include category here if you don't want to join later, but your backend already does
-      // category: product.category,
+      category: product.category,
       quantity: quantity,
       totalPrice: totalPrice,
       orderDate: orderDate.toISOString(), // ISO format is good for date handling
