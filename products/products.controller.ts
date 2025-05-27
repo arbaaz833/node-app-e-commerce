@@ -2,6 +2,7 @@ import { Request, Response } from "express";
 import path from 'path';
 import { readData, writeData } from "../utils/fileUtils";
 import { Order, Product } from "../types";
+import fs from 'fs';
 
 const productsFilePath = path.join('data', 'products.json');
 const ordersFilePath = path.join('data', 'orders.json');
@@ -61,7 +62,9 @@ const update = async (req:Request, res:Response):Promise<any> => {
 const orders = async (req:Request, res:Response) => {
     try {
       const orders = await readData<Order>(ordersFilePath);
-      console.log("upload dir",uploadDir);
+      if (fs.existsSync(path.join(uploadDir, 'logo.svg'))) {
+      console.log("FILE EXISTS");
+      }
       // You might want to join product details here if needed for frontend
       const products = await readData<Product>(productsFilePath);
       const populatedOrders = orders.map(order => {
