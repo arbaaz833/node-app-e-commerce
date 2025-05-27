@@ -1,902 +1,902 @@
 [
   {
     "id": "p1",
-    "name": "Rustic Headphones",
-    "category": "Automotive",
-    "description": "A high-quality Rustic Headphones. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 722.33,
-    "stock": 67,
-    "imageUrl": "images/placeholder_automotive.jpg"
+    "name": "Smart Mouse",
+    "category": "Groceries",
+    "description": "A high-quality Smart Mouse. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
+    "price": 682.47,
+    "stock": 182,
+    "imageUrl": "images/placeholder_groceries.jpg"
   },
   {
     "id": "p2",
-    "name": "Compact Tablet",
-    "category": "Groceries",
-    "description": "A high-quality Compact Tablet. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 509.88,
-    "stock": 13,
-    "imageUrl": "images/placeholder_groceries.jpg"
+    "name": "Ergonomic Speaker",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Ergonomic Speaker. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 584.45,
+    "stock": 257,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
   },
   {
     "id": "p3",
-    "name": "Smart Coffee Maker",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Smart Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 694.72,
-    "stock": 15,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+    "name": "Durable Watch",
+    "category": "Accessories",
+    "description": "A high-quality Durable Watch. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 81.63,
+    "stock": 133,
+    "imageUrl": "images/placeholder_accessories.jpg"
   },
   {
     "id": "p4",
-    "name": "Eco-friendly Blender",
-    "category": "Automotive",
-    "description": "A high-quality Eco-friendly Blender. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 781.21,
-    "stock": 273,
-    "imageUrl": "images/placeholder_automotive.jpg"
+    "name": "Compact Keyboard",
+    "category": "Health",
+    "description": "A high-quality Compact Keyboard. Perfect for daily use and offers great value. Explore the best features of the health world.",
+    "price": 160.59,
+    "stock": 97,
+    "imageUrl": "images/placeholder_health.jpg"
   },
   {
     "id": "p5",
-    "name": "Portable Bottle",
-    "category": "Sports & Outdoors",
-    "description": "A high-quality Portable Bottle. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
-    "price": 559.4,
-    "stock": 3,
-    "imageUrl": "images/placeholder_sports_outdoors.jpg"
+    "name": "Smart Tablet",
+    "category": "Accessories",
+    "description": "A high-quality Smart Tablet. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 818.82,
+    "stock": 189,
+    "imageUrl": "images/placeholder_accessories.jpg"
   },
   {
     "id": "p6",
-    "name": "Eco-friendly Charger",
-    "category": "Automotive",
-    "description": "A high-quality Eco-friendly Charger. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 785.13,
-    "stock": 174,
-    "imageUrl": "images/placeholder_automotive.jpg"
+    "name": "Lightweight Sneakers",
+    "category": "Groceries",
+    "description": "A high-quality Lightweight Sneakers. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
+    "price": 25.23,
+    "stock": 9,
+    "imageUrl": "images/placeholder_groceries.jpg"
   },
   {
     "id": "p7",
-    "name": "Heavy Duty Bottle",
-    "category": "Accessories",
-    "description": "A high-quality Heavy Duty Bottle. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
-    "price": 646.07,
-    "stock": 10,
-    "imageUrl": "images/placeholder_accessories.jpg"
+    "name": "Durable Backpack",
+    "category": "Office Supplies",
+    "description": "A high-quality Durable Backpack. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 309.66,
+    "stock": 126,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
   },
   {
     "id": "p8",
-    "name": "Ergonomic Sneakers",
-    "category": "Books",
-    "description": "A high-quality Ergonomic Sneakers. Perfect for daily use and offers great value. Explore the best features of the books world.",
-    "price": 405.87,
-    "stock": 224,
-    "imageUrl": "images/placeholder_books.jpg"
+    "name": "Heavy Duty Tablet",
+    "category": "Office Supplies",
+    "description": "A high-quality Heavy Duty Tablet. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 366.03,
+    "stock": 168,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
   },
   {
     "id": "p9",
-    "name": "Vintage Backpack",
-    "category": "Sports & Outdoors",
-    "description": "A high-quality Vintage Backpack. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
-    "price": 273.28,
-    "stock": 186,
-    "imageUrl": "images/placeholder_sports_outdoors.jpg"
+    "name": "Ergonomic Drone",
+    "category": "Accessories",
+    "description": "A high-quality Ergonomic Drone. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 185.28,
+    "stock": 187,
+    "imageUrl": "images/placeholder_accessories.jpg"
   },
   {
     "id": "p10",
-    "name": "Sleek Drone",
-    "category": "Office Supplies",
-    "description": "A high-quality Sleek Drone. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
-    "price": 816.72,
-    "stock": 188,
-    "imageUrl": "images/placeholder_office_supplies.jpg"
+    "name": "Sleek Keyboard",
+    "category": "Home & Kitchen",
+    "description": "A high-quality Sleek Keyboard. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
+    "price": 811.32,
+    "stock": 150,
+    "imageUrl": "images/placeholder_home_kitchen.jpg"
   },
   {
     "id": "p11",
-    "name": "Heavy Duty Desk Lamp",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Heavy Duty Desk Lamp. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 358.42,
-    "stock": 248,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
-  },
-  {
-    "id": "p12",
-    "name": "Lightweight Watch",
-    "category": "Health",
-    "description": "A high-quality Lightweight Watch. Perfect for daily use and offers great value. Explore the best features of the health world.",
-    "price": 69.49,
-    "stock": 88,
-    "imageUrl": "images/placeholder_health.jpg"
-  },
-  {
-    "id": "p13",
-    "name": "Compact Drone",
-    "category": "Automotive",
-    "description": "A high-quality Compact Drone. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 83.78,
-    "stock": 171,
-    "imageUrl": "images/placeholder_automotive.jpg"
-  },
-  {
-    "id": "p14",
-    "name": "Rustic Laptop",
-    "category": "Groceries",
-    "description": "A high-quality Rustic Laptop. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 112,
-    "stock": 220,
-    "imageUrl": "images/placeholder_groceries.jpg"
-  },
-  {
-    "id": "p15",
-    "name": "Sleek Yoga Mat",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Sleek Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 379.92,
-    "stock": 154,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
-  },
-  {
-    "id": "p16",
-    "name": "Modern Desk Lamp",
-    "category": "Electronics",
-    "description": "A high-quality Modern Desk Lamp. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 947.58,
-    "stock": 121,
-    "imageUrl": "images/placeholder_electronics.jpg"
-  },
-  {
-    "id": "p17",
-    "name": "Smart Yoga Mat",
+    "name": "Smart Keyboard",
     "category": "Books",
-    "description": "A high-quality Smart Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the books world.",
-    "price": 899.25,
-    "stock": 119,
-    "imageUrl": "images/placeholder_books.jpg"
-  },
-  {
-    "id": "p18",
-    "name": "Rustic Coffee Maker",
-    "category": "Toys & Games",
-    "description": "A high-quality Rustic Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
-    "price": 249.24,
-    "stock": 214,
-    "imageUrl": "images/placeholder_toys_games.jpg"
-  },
-  {
-    "id": "p19",
-    "name": "Premium Blender",
-    "category": "Automotive",
-    "description": "A high-quality Premium Blender. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 115.65,
-    "stock": 21,
-    "imageUrl": "images/placeholder_automotive.jpg"
-  },
-  {
-    "id": "p20",
-    "name": "Heavy Duty Mouse",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Heavy Duty Mouse. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 478.45,
-    "stock": 57,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
-  },
-  {
-    "id": "p21",
-    "name": "Premium Coffee Maker",
-    "category": "Automotive",
-    "description": "A high-quality Premium Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 179.63,
-    "stock": 103,
-    "imageUrl": "images/placeholder_automotive.jpg"
-  },
-  {
-    "id": "p22",
-    "name": "Rustic Yoga Mat",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Rustic Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 504.64,
-    "stock": 170,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
-  },
-  {
-    "id": "p23",
-    "name": "Ergonomic Tablet",
-    "category": "Toys & Games",
-    "description": "A high-quality Ergonomic Tablet. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
-    "price": 154.3,
-    "stock": 145,
-    "imageUrl": "images/placeholder_toys_games.jpg"
-  },
-  {
-    "id": "p24",
-    "name": "Vintage Novel",
-    "category": "Groceries",
-    "description": "A high-quality Vintage Novel. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 22.33,
-    "stock": 212,
-    "imageUrl": "images/placeholder_groceries.jpg"
-  },
-  {
-    "id": "p25",
-    "name": "Wireless Headphones",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Wireless Headphones. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 513.87,
-    "stock": 255,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
-  },
-  {
-    "id": "p26",
-    "name": "Portable Keyboard",
-    "category": "Electronics",
-    "description": "A high-quality Portable Keyboard. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 683.72,
-    "stock": 267,
-    "imageUrl": "images/placeholder_electronics.jpg"
-  },
-  {
-    "id": "p27",
-    "name": "Vintage Laptop",
-    "category": "Groceries",
-    "description": "A high-quality Vintage Laptop. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 12.31,
-    "stock": 219,
-    "imageUrl": "images/placeholder_groceries.jpg"
-  },
-  {
-    "id": "p28",
-    "name": "Eco-friendly Keyboard",
-    "category": "Books",
-    "description": "A high-quality Eco-friendly Keyboard. Perfect for daily use and offers great value. Explore the best features of the books world.",
-    "price": 565.12,
-    "stock": 120,
-    "imageUrl": "images/placeholder_books.jpg"
-  },
-  {
-    "id": "p29",
-    "name": "Portable Smartphone",
-    "category": "Automotive",
-    "description": "A high-quality Portable Smartphone. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 702.28,
-    "stock": 79,
-    "imageUrl": "images/placeholder_automotive.jpg"
-  },
-  {
-    "id": "p30",
-    "name": "Handmade Yoga Mat",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Handmade Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 631.9,
-    "stock": 172,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
-  },
-  {
-    "id": "p31",
-    "name": "Sleek Coffee Maker",
-    "category": "Groceries",
-    "description": "A high-quality Sleek Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 91.99,
-    "stock": 291,
-    "imageUrl": "images/placeholder_groceries.jpg"
-  },
-  {
-    "id": "p32",
-    "name": "Heavy Duty Laptop",
-    "category": "Books",
-    "description": "A high-quality Heavy Duty Laptop. Perfect for daily use and offers great value. Explore the best features of the books world.",
-    "price": 448.56,
-    "stock": 244,
-    "imageUrl": "images/placeholder_books.jpg"
-  },
-  {
-    "id": "p33",
-    "name": "Heavy Duty Coffee Maker",
-    "category": "Office Supplies",
-    "description": "A high-quality Heavy Duty Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
-    "price": 40.39,
-    "stock": 189,
-    "imageUrl": "images/placeholder_office_supplies.jpg"
-  },
-  {
-    "id": "p34",
-    "name": "Premium Watch",
-    "category": "Groceries",
-    "description": "A high-quality Premium Watch. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 787.38,
-    "stock": 3,
-    "imageUrl": "images/placeholder_groceries.jpg"
-  },
-  {
-    "id": "p35",
-    "name": "Sleek Sneakers",
-    "category": "Accessories",
-    "description": "A high-quality Sleek Sneakers. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
-    "price": 418.25,
-    "stock": 6,
-    "imageUrl": "images/placeholder_accessories.jpg"
-  },
-  {
-    "id": "p36",
-    "name": "Heavy Duty Drone",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Heavy Duty Drone. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 956.55,
-    "stock": 110,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
-  },
-  {
-    "id": "p37",
-    "name": "Wireless Laptop",
-    "category": "Sports & Outdoors",
-    "description": "A high-quality Wireless Laptop. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
-    "price": 217.55,
-    "stock": 151,
-    "imageUrl": "images/placeholder_sports_outdoors.jpg"
-  },
-  {
-    "id": "p38",
-    "name": "Portable Laptop",
-    "category": "Toys & Games",
-    "description": "A high-quality Portable Laptop. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
-    "price": 135.24,
-    "stock": 139,
-    "imageUrl": "images/placeholder_toys_games.jpg"
-  },
-  {
-    "id": "p39",
-    "name": "Heavy Duty Bottle",
-    "category": "Office Supplies",
-    "description": "A high-quality Heavy Duty Bottle. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
-    "price": 647.86,
-    "stock": 249,
-    "imageUrl": "images/placeholder_office_supplies.jpg"
-  },
-  {
-    "id": "p40",
-    "name": "Sleek Novel",
-    "category": "Sports & Outdoors",
-    "description": "A high-quality Sleek Novel. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
-    "price": 889.27,
-    "stock": 95,
-    "imageUrl": "images/placeholder_sports_outdoors.jpg"
-  },
-  {
-    "id": "p41",
-    "name": "Sleek Watch",
-    "category": "Sports & Outdoors",
-    "description": "A high-quality Sleek Watch. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
-    "price": 561.82,
-    "stock": 76,
-    "imageUrl": "images/placeholder_sports_outdoors.jpg"
-  },
-  {
-    "id": "p42",
-    "name": "Ergonomic Blender",
-    "category": "Health",
-    "description": "A high-quality Ergonomic Blender. Perfect for daily use and offers great value. Explore the best features of the health world.",
-    "price": 733.59,
-    "stock": 72,
-    "imageUrl": "images/placeholder_health.jpg"
-  },
-  {
-    "id": "p43",
-    "name": "Lightweight Sneakers",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Lightweight Sneakers. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 202.35,
-    "stock": 49,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
-  },
-  {
-    "id": "p44",
-    "name": "Rustic Keyboard",
-    "category": "Automotive",
-    "description": "A high-quality Rustic Keyboard. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 671.2,
-    "stock": 238,
-    "imageUrl": "images/placeholder_automotive.jpg"
-  },
-  {
-    "id": "p45",
-    "name": "Smart Yoga Mat",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Smart Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 16.19,
-    "stock": 237,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
-  },
-  {
-    "id": "p46",
-    "name": "Premium Sneakers",
-    "category": "Toys & Games",
-    "description": "A high-quality Premium Sneakers. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
-    "price": 373.43,
-    "stock": 248,
-    "imageUrl": "images/placeholder_toys_games.jpg"
-  },
-  {
-    "id": "p47",
-    "name": "Ergonomic Sneakers",
-    "category": "Books",
-    "description": "A high-quality Ergonomic Sneakers. Perfect for daily use and offers great value. Explore the best features of the books world.",
-    "price": 680.49,
-    "stock": 183,
-    "imageUrl": "images/placeholder_books.jpg"
-  },
-  {
-    "id": "p48",
-    "name": "Compact Novel",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Compact Novel. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 431.94,
-    "stock": 248,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
-  },
-  {
-    "id": "p49",
-    "name": "Sleek Speaker",
-    "category": "Sports & Outdoors",
-    "description": "A high-quality Sleek Speaker. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
-    "price": 120.61,
-    "stock": 102,
-    "imageUrl": "images/placeholder_sports_outdoors.jpg"
-  },
-  {
-    "id": "p50",
-    "name": "Portable Charger",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Portable Charger. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 155.09,
-    "stock": 294,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
-  },
-  {
-    "id": "p51",
-    "name": "Portable Headphones",
-    "category": "Accessories",
-    "description": "A high-quality Portable Headphones. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
-    "price": 751.09,
-    "stock": 264,
-    "imageUrl": "images/placeholder_accessories.jpg"
-  },
-  {
-    "id": "p52",
-    "name": "Handmade Keyboard",
-    "category": "Electronics",
-    "description": "A high-quality Handmade Keyboard. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 844.94,
-    "stock": 267,
-    "imageUrl": "images/placeholder_electronics.jpg"
-  },
-  {
-    "id": "p53",
-    "name": "Sleek Headphones",
-    "category": "Electronics",
-    "description": "A high-quality Sleek Headphones. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 30.61,
-    "stock": 34,
-    "imageUrl": "images/placeholder_electronics.jpg"
-  },
-  {
-    "id": "p54",
-    "name": "Heavy Duty Headphones",
-    "category": "Office Supplies",
-    "description": "A high-quality Heavy Duty Headphones. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
-    "price": 839.95,
-    "stock": 231,
-    "imageUrl": "images/placeholder_office_supplies.jpg"
-  },
-  {
-    "id": "p55",
-    "name": "Premium Drone",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Premium Drone. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 450.6,
-    "stock": 134,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
-  },
-  {
-    "id": "p56",
-    "name": "Handmade Backpack",
-    "category": "Groceries",
-    "description": "A high-quality Handmade Backpack. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 830.77,
-    "stock": 49,
-    "imageUrl": "images/placeholder_groceries.jpg"
-  },
-  {
-    "id": "p57",
-    "name": "Heavy Duty Keyboard",
-    "category": "Office Supplies",
-    "description": "A high-quality Heavy Duty Keyboard. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
-    "price": 613.43,
-    "stock": 165,
-    "imageUrl": "images/placeholder_office_supplies.jpg"
-  },
-  {
-    "id": "p58",
-    "name": "Wireless Keyboard",
-    "category": "Toys & Games",
-    "description": "A high-quality Wireless Keyboard. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
-    "price": 875.37,
-    "stock": 57,
-    "imageUrl": "images/placeholder_toys_games.jpg"
-  },
-  {
-    "id": "p59",
-    "name": "Vintage Laptop",
-    "category": "Health",
-    "description": "A high-quality Vintage Laptop. Perfect for daily use and offers great value. Explore the best features of the health world.",
-    "price": 909.09,
-    "stock": 196,
-    "imageUrl": "images/placeholder_health.jpg"
-  },
-  {
-    "id": "p60",
-    "name": "Sleek Mouse",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Sleek Mouse. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 62.01,
-    "stock": 96,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
-  },
-  {
-    "id": "p61",
-    "name": "Premium Drone",
-    "category": "Groceries",
-    "description": "A high-quality Premium Drone. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 817.44,
-    "stock": 120,
-    "imageUrl": "images/placeholder_groceries.jpg"
-  },
-  {
-    "id": "p62",
-    "name": "Portable Novel",
-    "category": "Automotive",
-    "description": "A high-quality Portable Novel. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 137.33,
-    "stock": 10,
-    "imageUrl": "images/placeholder_automotive.jpg"
-  },
-  {
-    "id": "p63",
-    "name": "Compact Coffee Maker",
-    "category": "Electronics",
-    "description": "A high-quality Compact Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 189.29,
-    "stock": 271,
-    "imageUrl": "images/placeholder_electronics.jpg"
-  },
-  {
-    "id": "p64",
-    "name": "Wireless Charger",
-    "category": "Office Supplies",
-    "description": "A high-quality Wireless Charger. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
-    "price": 967.87,
-    "stock": 145,
-    "imageUrl": "images/placeholder_office_supplies.jpg"
-  },
-  {
-    "id": "p65",
-    "name": "Sleek Mouse",
-    "category": "Accessories",
-    "description": "A high-quality Sleek Mouse. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
-    "price": 536.01,
-    "stock": 13,
-    "imageUrl": "images/placeholder_accessories.jpg"
-  },
-  {
-    "id": "p66",
-    "name": "Sleek Sneakers",
-    "category": "Toys & Games",
-    "description": "A high-quality Sleek Sneakers. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
-    "price": 175.5,
-    "stock": 186,
-    "imageUrl": "images/placeholder_toys_games.jpg"
-  },
-  {
-    "id": "p67",
-    "name": "Wireless Desk Lamp",
-    "category": "Health",
-    "description": "A high-quality Wireless Desk Lamp. Perfect for daily use and offers great value. Explore the best features of the health world.",
-    "price": 289.07,
-    "stock": 187,
-    "imageUrl": "images/placeholder_health.jpg"
-  },
-  {
-    "id": "p68",
-    "name": "Modern Mouse",
-    "category": "Automotive",
-    "description": "A high-quality Modern Mouse. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 742.29,
-    "stock": 160,
-    "imageUrl": "images/placeholder_automotive.jpg"
-  },
-  {
-    "id": "p69",
-    "name": "Handmade Bottle",
-    "category": "Accessories",
-    "description": "A high-quality Handmade Bottle. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
-    "price": 490.11,
-    "stock": 67,
-    "imageUrl": "images/placeholder_accessories.jpg"
-  },
-  {
-    "id": "p70",
-    "name": "Ergonomic Mouse",
-    "category": "Accessories",
-    "description": "A high-quality Ergonomic Mouse. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
-    "price": 492.56,
-    "stock": 36,
-    "imageUrl": "images/placeholder_accessories.jpg"
-  },
-  {
-    "id": "p71",
-    "name": "Vintage Desk Lamp",
-    "category": "Accessories",
-    "description": "A high-quality Vintage Desk Lamp. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
-    "price": 620.63,
-    "stock": 166,
-    "imageUrl": "images/placeholder_accessories.jpg"
-  },
-  {
-    "id": "p72",
-    "name": "Durable Desk Lamp",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Durable Desk Lamp. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 825.09,
-    "stock": 297,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
-  },
-  {
-    "id": "p73",
-    "name": "Lightweight Headphones",
-    "category": "Books",
-    "description": "A high-quality Lightweight Headphones. Perfect for daily use and offers great value. Explore the best features of the books world.",
-    "price": 490.94,
-    "stock": 164,
-    "imageUrl": "images/placeholder_books.jpg"
-  },
-  {
-    "id": "p74",
-    "name": "Handmade Tablet",
-    "category": "Books",
-    "description": "A high-quality Handmade Tablet. Perfect for daily use and offers great value. Explore the best features of the books world.",
-    "price": 896.49,
+    "description": "A high-quality Smart Keyboard. Perfect for daily use and offers great value. Explore the best features of the books world.",
+    "price": 875.63,
     "stock": 146,
     "imageUrl": "images/placeholder_books.jpg"
   },
   {
-    "id": "p75",
-    "name": "Lightweight Speaker",
+    "id": "p12",
+    "name": "Durable Smartphone",
     "category": "Electronics",
-    "description": "A high-quality Lightweight Speaker. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 608.99,
-    "stock": 104,
+    "description": "A high-quality Durable Smartphone. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 34.98,
+    "stock": 216,
     "imageUrl": "images/placeholder_electronics.jpg"
   },
   {
-    "id": "p76",
-    "name": "Portable Headphones",
-    "category": "Sports & Outdoors",
-    "description": "A high-quality Portable Headphones. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
-    "price": 823.93,
-    "stock": 185,
-    "imageUrl": "images/placeholder_sports_outdoors.jpg"
+    "id": "p13",
+    "name": "Vintage Mouse",
+    "category": "Electronics",
+    "description": "A high-quality Vintage Mouse. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 912.93,
+    "stock": 296,
+    "imageUrl": "images/placeholder_electronics.jpg"
   },
   {
-    "id": "p77",
-    "name": "Ergonomic Tablet",
+    "id": "p14",
+    "name": "Vintage Blender",
+    "category": "Toys & Games",
+    "description": "A high-quality Vintage Blender. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
+    "price": 491.69,
+    "stock": 45,
+    "imageUrl": "images/placeholder_toys_games.jpg"
+  },
+  {
+    "id": "p15",
+    "name": "Ergonomic Sneakers",
     "category": "Office Supplies",
-    "description": "A high-quality Ergonomic Tablet. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
-    "price": 802.84,
-    "stock": 105,
+    "description": "A high-quality Ergonomic Sneakers. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 765.2,
+    "stock": 106,
     "imageUrl": "images/placeholder_office_supplies.jpg"
   },
   {
-    "id": "p78",
-    "name": "Vintage Novel",
+    "id": "p16",
+    "name": "Premium Watch",
+    "category": "Automotive",
+    "description": "A high-quality Premium Watch. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 29.2,
+    "stock": 274,
+    "imageUrl": "images/placeholder_automotive.jpg"
+  },
+  {
+    "id": "p17",
+    "name": "Compact Charger",
+    "category": "Health",
+    "description": "A high-quality Compact Charger. Perfect for daily use and offers great value. Explore the best features of the health world.",
+    "price": 80.05,
+    "stock": 233,
+    "imageUrl": "images/placeholder_health.jpg"
+  },
+  {
+    "id": "p18",
+    "name": "Wireless Laptop",
     "category": "Electronics",
-    "description": "A high-quality Vintage Novel. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 915.48,
+    "description": "A high-quality Wireless Laptop. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 847.44,
+    "stock": 252,
+    "imageUrl": "images/placeholder_electronics.jpg"
+  },
+  {
+    "id": "p19",
+    "name": "Sleek Bottle",
+    "category": "Home & Kitchen",
+    "description": "A high-quality Sleek Bottle. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
+    "price": 970.11,
+    "stock": 271,
+    "imageUrl": "images/placeholder_home_kitchen.jpg"
+  },
+  {
+    "id": "p20",
+    "name": "Heavy Duty Bottle",
+    "category": "Electronics",
+    "description": "A high-quality Heavy Duty Bottle. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 798.09,
+    "stock": 31,
+    "imageUrl": "images/placeholder_electronics.jpg"
+  },
+  {
+    "id": "p21",
+    "name": "Wireless Yoga Mat",
+    "category": "Electronics",
+    "description": "A high-quality Wireless Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 806.34,
+    "stock": 0,
+    "imageUrl": "images/placeholder_electronics.jpg"
+  },
+  {
+    "id": "p22",
+    "name": "Vintage Watch",
+    "category": "Accessories",
+    "description": "A high-quality Vintage Watch. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 436.7,
+    "stock": 214,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p23",
+    "name": "Durable Keyboard",
+    "category": "Accessories",
+    "description": "A high-quality Durable Keyboard. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 662.34,
+    "stock": 298,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p24",
+    "name": "Rustic Mouse",
+    "category": "Groceries",
+    "description": "A high-quality Rustic Mouse. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
+    "price": 901.25,
+    "stock": 100,
+    "imageUrl": "images/placeholder_groceries.jpg"
+  },
+  {
+    "id": "p25",
+    "name": "Wireless Smartphone",
+    "category": "Office Supplies",
+    "description": "A high-quality Wireless Smartphone. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 406.01,
+    "stock": 274,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
+  },
+  {
+    "id": "p26",
+    "name": "Modern Bottle",
+    "category": "Automotive",
+    "description": "A high-quality Modern Bottle. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 904.82,
+    "stock": 34,
+    "imageUrl": "images/placeholder_automotive.jpg"
+  },
+  {
+    "id": "p27",
+    "name": "Premium Bottle",
+    "category": "Groceries",
+    "description": "A high-quality Premium Bottle. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
+    "price": 906.03,
+    "stock": 28,
+    "imageUrl": "images/placeholder_groceries.jpg"
+  },
+  {
+    "id": "p28",
+    "name": "Handmade Sneakers",
+    "category": "Automotive",
+    "description": "A high-quality Handmade Sneakers. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 579.46,
+    "stock": 92,
+    "imageUrl": "images/placeholder_automotive.jpg"
+  },
+  {
+    "id": "p29",
+    "name": "Durable Keyboard",
+    "category": "Groceries",
+    "description": "A high-quality Durable Keyboard. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
+    "price": 715.71,
+    "stock": 98,
+    "imageUrl": "images/placeholder_groceries.jpg"
+  },
+  {
+    "id": "p30",
+    "name": "Heavy Duty Yoga Mat",
+    "category": "Office Supplies",
+    "description": "A high-quality Heavy Duty Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 635.5,
+    "stock": 208,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
+  },
+  {
+    "id": "p31",
+    "name": "Heavy Duty Keyboard",
+    "category": "Toys & Games",
+    "description": "A high-quality Heavy Duty Keyboard. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
+    "price": 927.76,
+    "stock": 120,
+    "imageUrl": "images/placeholder_toys_games.jpg"
+  },
+  {
+    "id": "p32",
+    "name": "Durable Backpack",
+    "category": "Automotive",
+    "description": "A high-quality Durable Backpack. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 28.5,
+    "stock": 211,
+    "imageUrl": "images/placeholder_automotive.jpg"
+  },
+  {
+    "id": "p33",
+    "name": "Handmade Backpack",
+    "category": "Automotive",
+    "description": "A high-quality Handmade Backpack. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 992.68,
+    "stock": 40,
+    "imageUrl": "images/placeholder_automotive.jpg"
+  },
+  {
+    "id": "p34",
+    "name": "Compact Desk Lamp",
+    "category": "Office Supplies",
+    "description": "A high-quality Compact Desk Lamp. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 767.01,
+    "stock": 43,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
+  },
+  {
+    "id": "p35",
+    "name": "Wireless Yoga Mat",
+    "category": "Health",
+    "description": "A high-quality Wireless Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the health world.",
+    "price": 805.13,
+    "stock": 134,
+    "imageUrl": "images/placeholder_health.jpg"
+  },
+  {
+    "id": "p36",
+    "name": "Premium Speaker",
+    "category": "Accessories",
+    "description": "A high-quality Premium Speaker. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 782.37,
+    "stock": 80,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p37",
+    "name": "Heavy Duty Laptop",
+    "category": "Office Supplies",
+    "description": "A high-quality Heavy Duty Laptop. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 182.27,
+    "stock": 274,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
+  },
+  {
+    "id": "p38",
+    "name": "Smart Mouse",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Smart Mouse. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 200.16,
+    "stock": 77,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+  },
+  {
+    "id": "p39",
+    "name": "Heavy Duty Laptop",
+    "category": "Toys & Games",
+    "description": "A high-quality Heavy Duty Laptop. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
+    "price": 374.13,
+    "stock": 162,
+    "imageUrl": "images/placeholder_toys_games.jpg"
+  },
+  {
+    "id": "p40",
+    "name": "Wireless Smartphone",
+    "category": "Accessories",
+    "description": "A high-quality Wireless Smartphone. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 475.16,
+    "stock": 99,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p41",
+    "name": "Eco-friendly Novel",
+    "category": "Toys & Games",
+    "description": "A high-quality Eco-friendly Novel. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
+    "price": 758.29,
+    "stock": 229,
+    "imageUrl": "images/placeholder_toys_games.jpg"
+  },
+  {
+    "id": "p42",
+    "name": "Compact Charger",
+    "category": "Electronics",
+    "description": "A high-quality Compact Charger. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 920.37,
+    "stock": 203,
+    "imageUrl": "images/placeholder_electronics.jpg"
+  },
+  {
+    "id": "p43",
+    "name": "Vintage Laptop",
+    "category": "Sports & Outdoors",
+    "description": "A high-quality Vintage Laptop. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
+    "price": 412.08,
+    "stock": 150,
+    "imageUrl": "images/placeholder_sports_outdoors.jpg"
+  },
+  {
+    "id": "p44",
+    "name": "Modern Laptop",
+    "category": "Groceries",
+    "description": "A high-quality Modern Laptop. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
+    "price": 761.16,
+    "stock": 264,
+    "imageUrl": "images/placeholder_groceries.jpg"
+  },
+  {
+    "id": "p45",
+    "name": "Sleek Laptop",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Sleek Laptop. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 364.22,
+    "stock": 244,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+  },
+  {
+    "id": "p46",
+    "name": "Heavy Duty Tablet",
+    "category": "Accessories",
+    "description": "A high-quality Heavy Duty Tablet. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 719.36,
+    "stock": 161,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p47",
+    "name": "Portable Yoga Mat",
+    "category": "Electronics",
+    "description": "A high-quality Portable Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 140.66,
+    "stock": 278,
+    "imageUrl": "images/placeholder_electronics.jpg"
+  },
+  {
+    "id": "p48",
+    "name": "Durable Watch",
+    "category": "Books",
+    "description": "A high-quality Durable Watch. Perfect for daily use and offers great value. Explore the best features of the books world.",
+    "price": 463.57,
+    "stock": 74,
+    "imageUrl": "images/placeholder_books.jpg"
+  },
+  {
+    "id": "p49",
+    "name": "Heavy Duty Headphones",
+    "category": "Books",
+    "description": "A high-quality Heavy Duty Headphones. Perfect for daily use and offers great value. Explore the best features of the books world.",
+    "price": 802.56,
+    "stock": 5,
+    "imageUrl": "images/placeholder_books.jpg"
+  },
+  {
+    "id": "p50",
+    "name": "Lightweight Drone",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Lightweight Drone. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 901.47,
+    "stock": 127,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+  },
+  {
+    "id": "p51",
+    "name": "Vintage Watch",
+    "category": "Sports & Outdoors",
+    "description": "A high-quality Vintage Watch. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
+    "price": 720.9,
+    "stock": 204,
+    "imageUrl": "images/placeholder_sports_outdoors.jpg"
+  },
+  {
+    "id": "p52",
+    "name": "Handmade Coffee Maker",
+    "category": "Health",
+    "description": "A high-quality Handmade Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the health world.",
+    "price": 45.3,
+    "stock": 196,
+    "imageUrl": "images/placeholder_health.jpg"
+  },
+  {
+    "id": "p53",
+    "name": "Compact Bottle",
+    "category": "Sports & Outdoors",
+    "description": "A high-quality Compact Bottle. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
+    "price": 558.61,
+    "stock": 88,
+    "imageUrl": "images/placeholder_sports_outdoors.jpg"
+  },
+  {
+    "id": "p54",
+    "name": "Heavy Duty Blender",
+    "category": "Groceries",
+    "description": "A high-quality Heavy Duty Blender. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
+    "price": 896.65,
+    "stock": 61,
+    "imageUrl": "images/placeholder_groceries.jpg"
+  },
+  {
+    "id": "p55",
+    "name": "Durable Bottle",
+    "category": "Accessories",
+    "description": "A high-quality Durable Bottle. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 52.04,
+    "stock": 118,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p56",
+    "name": "Heavy Duty Watch",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Heavy Duty Watch. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 567.63,
+    "stock": 26,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+  },
+  {
+    "id": "p57",
+    "name": "Handmade Watch",
+    "category": "Automotive",
+    "description": "A high-quality Handmade Watch. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 691.84,
+    "stock": 99,
+    "imageUrl": "images/placeholder_automotive.jpg"
+  },
+  {
+    "id": "p58",
+    "name": "Premium Laptop",
+    "category": "Books",
+    "description": "A high-quality Premium Laptop. Perfect for daily use and offers great value. Explore the best features of the books world.",
+    "price": 880.54,
+    "stock": 221,
+    "imageUrl": "images/placeholder_books.jpg"
+  },
+  {
+    "id": "p59",
+    "name": "Portable Tablet",
+    "category": "Office Supplies",
+    "description": "A high-quality Portable Tablet. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 419.29,
+    "stock": 211,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
+  },
+  {
+    "id": "p60",
+    "name": "Smart Headphones",
+    "category": "Books",
+    "description": "A high-quality Smart Headphones. Perfect for daily use and offers great value. Explore the best features of the books world.",
+    "price": 591.26,
+    "stock": 51,
+    "imageUrl": "images/placeholder_books.jpg"
+  },
+  {
+    "id": "p61",
+    "name": "Rustic Drone",
+    "category": "Home & Kitchen",
+    "description": "A high-quality Rustic Drone. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
+    "price": 680.65,
+    "stock": 162,
+    "imageUrl": "images/placeholder_home_kitchen.jpg"
+  },
+  {
+    "id": "p62",
+    "name": "Lightweight Novel",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Lightweight Novel. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 842.62,
+    "stock": 136,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+  },
+  {
+    "id": "p63",
+    "name": "Vintage Yoga Mat",
+    "category": "Health",
+    "description": "A high-quality Vintage Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the health world.",
+    "price": 510.23,
     "stock": 54,
+    "imageUrl": "images/placeholder_health.jpg"
+  },
+  {
+    "id": "p64",
+    "name": "Compact Coffee Maker",
+    "category": "Electronics",
+    "description": "A high-quality Compact Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 264.81,
+    "stock": 161,
+    "imageUrl": "images/placeholder_electronics.jpg"
+  },
+  {
+    "id": "p65",
+    "name": "Smart Keyboard",
+    "category": "Books",
+    "description": "A high-quality Smart Keyboard. Perfect for daily use and offers great value. Explore the best features of the books world.",
+    "price": 432.44,
+    "stock": 53,
+    "imageUrl": "images/placeholder_books.jpg"
+  },
+  {
+    "id": "p66",
+    "name": "Rustic Drone",
+    "category": "Electronics",
+    "description": "A high-quality Rustic Drone. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 746.08,
+    "stock": 259,
+    "imageUrl": "images/placeholder_electronics.jpg"
+  },
+  {
+    "id": "p67",
+    "name": "Ergonomic Charger",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Ergonomic Charger. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 621.42,
+    "stock": 25,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+  },
+  {
+    "id": "p68",
+    "name": "Smart Keyboard",
+    "category": "Accessories",
+    "description": "A high-quality Smart Keyboard. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 741.54,
+    "stock": 205,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p69",
+    "name": "Durable Backpack",
+    "category": "Automotive",
+    "description": "A high-quality Durable Backpack. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 391.39,
+    "stock": 195,
+    "imageUrl": "images/placeholder_automotive.jpg"
+  },
+  {
+    "id": "p70",
+    "name": "Lightweight Speaker",
+    "category": "Sports & Outdoors",
+    "description": "A high-quality Lightweight Speaker. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
+    "price": 318.61,
+    "stock": 90,
+    "imageUrl": "images/placeholder_sports_outdoors.jpg"
+  },
+  {
+    "id": "p71",
+    "name": "Eco-friendly Bottle",
+    "category": "Health",
+    "description": "A high-quality Eco-friendly Bottle. Perfect for daily use and offers great value. Explore the best features of the health world.",
+    "price": 913.04,
+    "stock": 212,
+    "imageUrl": "images/placeholder_health.jpg"
+  },
+  {
+    "id": "p72",
+    "name": "Vintage Smartphone",
+    "category": "Toys & Games",
+    "description": "A high-quality Vintage Smartphone. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
+    "price": 861.19,
+    "stock": 247,
+    "imageUrl": "images/placeholder_toys_games.jpg"
+  },
+  {
+    "id": "p73",
+    "name": "Smart Tablet",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Smart Tablet. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 10.27,
+    "stock": 113,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+  },
+  {
+    "id": "p74",
+    "name": "Ergonomic Speaker",
+    "category": "Electronics",
+    "description": "A high-quality Ergonomic Speaker. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 154.71,
+    "stock": 105,
+    "imageUrl": "images/placeholder_electronics.jpg"
+  },
+  {
+    "id": "p75",
+    "name": "Portable Backpack",
+    "category": "Books",
+    "description": "A high-quality Portable Backpack. Perfect for daily use and offers great value. Explore the best features of the books world.",
+    "price": 235.49,
+    "stock": 187,
+    "imageUrl": "images/placeholder_books.jpg"
+  },
+  {
+    "id": "p76",
+    "name": "Durable Tablet",
+    "category": "Groceries",
+    "description": "A high-quality Durable Tablet. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
+    "price": 647.85,
+    "stock": 163,
+    "imageUrl": "images/placeholder_groceries.jpg"
+  },
+  {
+    "id": "p77",
+    "name": "Ergonomic Mouse",
+    "category": "Electronics",
+    "description": "A high-quality Ergonomic Mouse. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 706.25,
+    "stock": 5,
+    "imageUrl": "images/placeholder_electronics.jpg"
+  },
+  {
+    "id": "p78",
+    "name": "Durable Coffee Maker",
+    "category": "Electronics",
+    "description": "A high-quality Durable Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 62.37,
+    "stock": 248,
     "imageUrl": "images/placeholder_electronics.jpg"
   },
   {
     "id": "p79",
-    "name": "Lightweight Smartphone",
-    "category": "Health",
-    "description": "A high-quality Lightweight Smartphone. Perfect for daily use and offers great value. Explore the best features of the health world.",
-    "price": 18.31,
-    "stock": 270,
-    "imageUrl": "images/placeholder_health.jpg"
+    "name": "Handmade Drone",
+    "category": "Electronics",
+    "description": "A high-quality Handmade Drone. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 184.92,
+    "stock": 158,
+    "imageUrl": "images/placeholder_electronics.jpg"
   },
   {
     "id": "p80",
-    "name": "Wireless Smartphone",
-    "category": "Sports & Outdoors",
-    "description": "A high-quality Wireless Smartphone. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
-    "price": 518.56,
-    "stock": 192,
-    "imageUrl": "images/placeholder_sports_outdoors.jpg"
-  },
-  {
-    "id": "p81",
-    "name": "Vintage Drone",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Vintage Drone. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 835.88,
-    "stock": 195,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
-  },
-  {
-    "id": "p82",
-    "name": "Heavy Duty Novel",
-    "category": "Groceries",
-    "description": "A high-quality Heavy Duty Novel. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 540.67,
-    "stock": 174,
-    "imageUrl": "images/placeholder_groceries.jpg"
-  },
-  {
-    "id": "p83",
-    "name": "Durable Headphones",
-    "category": "Electronics",
-    "description": "A high-quality Durable Headphones. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 165.66,
-    "stock": 147,
-    "imageUrl": "images/placeholder_electronics.jpg"
-  },
-  {
-    "id": "p84",
-    "name": "Handmade Headphones",
-    "category": "Electronics",
-    "description": "A high-quality Handmade Headphones. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 269.47,
-    "stock": 4,
-    "imageUrl": "images/placeholder_electronics.jpg"
-  },
-  {
-    "id": "p85",
-    "name": "Smart Sneakers",
-    "category": "Groceries",
-    "description": "A high-quality Smart Sneakers. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 8.34,
-    "stock": 290,
-    "imageUrl": "images/placeholder_groceries.jpg"
-  },
-  {
-    "id": "p86",
-    "name": "Eco-friendly Tablet",
-    "category": "Health",
-    "description": "A high-quality Eco-friendly Tablet. Perfect for daily use and offers great value. Explore the best features of the health world.",
-    "price": 782.52,
-    "stock": 116,
-    "imageUrl": "images/placeholder_health.jpg"
-  },
-  {
-    "id": "p87",
-    "name": "Vintage Drone",
-    "category": "Office Supplies",
-    "description": "A high-quality Vintage Drone. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
-    "price": 739.35,
-    "stock": 227,
-    "imageUrl": "images/placeholder_office_supplies.jpg"
-  },
-  {
-    "id": "p88",
-    "name": "Eco-friendly Coffee Maker",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Eco-friendly Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 364.08,
-    "stock": 7,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
-  },
-  {
-    "id": "p89",
-    "name": "Ergonomic Laptop",
+    "name": "Smart Speaker",
     "category": "Automotive",
-    "description": "A high-quality Ergonomic Laptop. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 90.62,
-    "stock": 8,
+    "description": "A high-quality Smart Speaker. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 143.52,
+    "stock": 119,
     "imageUrl": "images/placeholder_automotive.jpg"
   },
   {
-    "id": "p90",
-    "name": "Durable Headphones",
+    "id": "p81",
+    "name": "Rustic Tablet",
+    "category": "Accessories",
+    "description": "A high-quality Rustic Tablet. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 550.42,
+    "stock": 84,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p82",
+    "name": "Sleek Drone",
+    "category": "Office Supplies",
+    "description": "A high-quality Sleek Drone. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 149.38,
+    "stock": 177,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
+  },
+  {
+    "id": "p83",
+    "name": "Heavy Duty Smartphone",
+    "category": "Office Supplies",
+    "description": "A high-quality Heavy Duty Smartphone. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 378.74,
+    "stock": 122,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
+  },
+  {
+    "id": "p84",
+    "name": "Handmade Laptop",
     "category": "Health",
-    "description": "A high-quality Durable Headphones. Perfect for daily use and offers great value. Explore the best features of the health world.",
-    "price": 58.5,
-    "stock": 52,
+    "description": "A high-quality Handmade Laptop. Perfect for daily use and offers great value. Explore the best features of the health world.",
+    "price": 223.43,
+    "stock": 42,
     "imageUrl": "images/placeholder_health.jpg"
   },
   {
-    "id": "p91",
-    "name": "Heavy Duty Smartphone",
-    "category": "Sports & Outdoors",
-    "description": "A high-quality Heavy Duty Smartphone. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
-    "price": 492.77,
-    "stock": 68,
-    "imageUrl": "images/placeholder_sports_outdoors.jpg"
-  },
-  {
-    "id": "p92",
-    "name": "Lightweight Keyboard",
+    "id": "p85",
+    "name": "Rustic Drone",
     "category": "Beauty & Personal Care",
-    "description": "A high-quality Lightweight Keyboard. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 353.43,
-    "stock": 293,
+    "description": "A high-quality Rustic Drone. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 46.3,
+    "stock": 10,
     "imageUrl": "images/placeholder_beauty_personal_care.jpg"
   },
   {
-    "id": "p93",
-    "name": "Heavy Duty Coffee Maker",
-    "category": "Home & Kitchen",
-    "description": "A high-quality Heavy Duty Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the home & kitchen world.",
-    "price": 610.78,
-    "stock": 237,
-    "imageUrl": "images/placeholder_home_kitchen.jpg"
+    "id": "p86",
+    "name": "Premium Novel",
+    "category": "Office Supplies",
+    "description": "A high-quality Premium Novel. Perfect for daily use and offers great value. Explore the best features of the office supplies world.",
+    "price": 274.4,
+    "stock": 224,
+    "imageUrl": "images/placeholder_office_supplies.jpg"
   },
   {
-    "id": "p94",
-    "name": "Lightweight Sneakers",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Lightweight Sneakers. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 815.05,
-    "stock": 286,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
-  },
-  {
-    "id": "p95",
-    "name": "Lightweight Charger",
+    "id": "p87",
+    "name": "Compact Blender",
     "category": "Electronics",
-    "description": "A high-quality Lightweight Charger. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
-    "price": 902.62,
-    "stock": 261,
+    "description": "A high-quality Compact Blender. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 601.31,
+    "stock": 224,
     "imageUrl": "images/placeholder_electronics.jpg"
   },
   {
-    "id": "p96",
-    "name": "Vintage Watch",
+    "id": "p88",
+    "name": "Compact Drone",
+    "category": "Health",
+    "description": "A high-quality Compact Drone. Perfect for daily use and offers great value. Explore the best features of the health world.",
+    "price": 959.6,
+    "stock": 246,
+    "imageUrl": "images/placeholder_health.jpg"
+  },
+  {
+    "id": "p89",
+    "name": "Wireless Blender",
+    "category": "Health",
+    "description": "A high-quality Wireless Blender. Perfect for daily use and offers great value. Explore the best features of the health world.",
+    "price": 186.71,
+    "stock": 57,
+    "imageUrl": "images/placeholder_health.jpg"
+  },
+  {
+    "id": "p90",
+    "name": "Compact Drone",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Compact Drone. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 472.19,
+    "stock": 18,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+  },
+  {
+    "id": "p91",
+    "name": "Rustic Novel",
     "category": "Automotive",
-    "description": "A high-quality Vintage Watch. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
-    "price": 727.36,
-    "stock": 126,
+    "description": "A high-quality Rustic Novel. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 66.14,
+    "stock": 122,
+    "imageUrl": "images/placeholder_automotive.jpg"
+  },
+  {
+    "id": "p92",
+    "name": "Sleek Laptop",
+    "category": "Sports & Outdoors",
+    "description": "A high-quality Sleek Laptop. Perfect for daily use and offers great value. Explore the best features of the sports & outdoors world.",
+    "price": 91.18,
+    "stock": 133,
+    "imageUrl": "images/placeholder_sports_outdoors.jpg"
+  },
+  {
+    "id": "p93",
+    "name": "Eco-friendly Bottle",
+    "category": "Accessories",
+    "description": "A high-quality Eco-friendly Bottle. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 695.07,
+    "stock": 46,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p94",
+    "name": "Compact Coffee Maker",
+    "category": "Toys & Games",
+    "description": "A high-quality Compact Coffee Maker. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
+    "price": 412.53,
+    "stock": 209,
+    "imageUrl": "images/placeholder_toys_games.jpg"
+  },
+  {
+    "id": "p95",
+    "name": "Heavy Duty Yoga Mat",
+    "category": "Accessories",
+    "description": "A high-quality Heavy Duty Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the accessories world.",
+    "price": 177.55,
+    "stock": 35,
+    "imageUrl": "images/placeholder_accessories.jpg"
+  },
+  {
+    "id": "p96",
+    "name": "Ergonomic Yoga Mat",
+    "category": "Automotive",
+    "description": "A high-quality Ergonomic Yoga Mat. Perfect for daily use and offers great value. Explore the best features of the automotive world.",
+    "price": 211.29,
+    "stock": 156,
     "imageUrl": "images/placeholder_automotive.jpg"
   },
   {
     "id": "p97",
-    "name": "Compact Tablet",
-    "category": "Groceries",
-    "description": "A high-quality Compact Tablet. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 38.78,
-    "stock": 219,
-    "imageUrl": "images/placeholder_groceries.jpg"
+    "name": "Handmade Watch",
+    "category": "Beauty & Personal Care",
+    "description": "A high-quality Handmade Watch. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
+    "price": 611.88,
+    "stock": 106,
+    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
   },
   {
     "id": "p98",
-    "name": "Wireless Desk Lamp",
-    "category": "Groceries",
-    "description": "A high-quality Wireless Desk Lamp. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
-    "price": 394.56,
-    "stock": 296,
-    "imageUrl": "images/placeholder_groceries.jpg"
+    "name": "Handmade Blender",
+    "category": "Electronics",
+    "description": "A high-quality Handmade Blender. Perfect for daily use and offers great value. Explore the best features of the electronics world.",
+    "price": 255.59,
+    "stock": 215,
+    "imageUrl": "images/placeholder_electronics.jpg"
   },
   {
     "id": "p99",
-    "name": "Portable Watch",
-    "category": "Toys & Games",
-    "description": "A high-quality Portable Watch. Perfect for daily use and offers great value. Explore the best features of the toys & games world.",
-    "price": 926.46,
-    "stock": 56,
-    "imageUrl": "images/placeholder_toys_games.jpg"
+    "name": "Premium Novel",
+    "category": "Books",
+    "description": "A high-quality Premium Novel. Perfect for daily use and offers great value. Explore the best features of the books world.",
+    "price": 149.26,
+    "stock": 87,
+    "imageUrl": "images/placeholder_books.jpg"
   },
   {
     "id": "p100",
-    "name": "Ergonomic Sneakers",
-    "category": "Beauty & Personal Care",
-    "description": "A high-quality Ergonomic Sneakers. Perfect for daily use and offers great value. Explore the best features of the beauty & personal care world.",
-    "price": 202.4,
-    "stock": 286,
-    "imageUrl": "images/placeholder_beauty_personal_care.jpg"
+    "name": "Rustic Tablet",
+    "category": "Groceries",
+    "description": "A high-quality Rustic Tablet. Perfect for daily use and offers great value. Explore the best features of the groceries world.",
+    "price": 691.28,
+    "stock": 213,
+    "imageUrl": "images/placeholder_groceries.jpg"
   }
 ]

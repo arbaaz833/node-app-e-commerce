@@ -6,8 +6,6 @@ import { Order, Product } from "../types";
 const productsFilePath = path.join('data', 'products.json');
 const ordersFilePath = path.join('data', 'orders.json');
 
-
-
 const get = async (req:Request, res:Response) => {
     try {
       const products = await readData(productsFilePath);
@@ -21,8 +19,10 @@ const create = async (req:Request, res:Response) => {
     try {
       const products = await readData<Product>(productsFilePath);
       const newProduct = {
-        id: `p${Date.now()}`, 
+        id: `p${products.length + 1}`,
         ...req.body,
+        price: parseFloat(req.body.price), 
+        stock: parseInt(req.body.stock, 10) || 0, 
         imageUrl: req.file ? `/uploads/${req.file.originalname}` : '' 
       };
       products.push(newProduct);
