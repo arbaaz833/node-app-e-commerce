@@ -6,6 +6,8 @@ import { Order, Product } from "../types";
 const productsFilePath = path.join('data', 'products.json');
 const ordersFilePath = path.join('data', 'orders.json');
 
+const uploadDir = path.join('uploads');
+
 const get = async (req:Request, res:Response) => {
     try {
       const products = await readData(productsFilePath);
@@ -59,6 +61,7 @@ const update = async (req:Request, res:Response):Promise<any> => {
 const orders = async (req:Request, res:Response) => {
     try {
       const orders = await readData<Order>(ordersFilePath);
+      console.log("upload dir",uploadDir);
       // You might want to join product details here if needed for frontend
       const products = await readData<Product>(productsFilePath);
       const populatedOrders = orders.map(order => {
