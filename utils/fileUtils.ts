@@ -8,7 +8,7 @@ export const readData = async <T>(filePath:string):Promise<T[]> => {
       return JSON.parse(data);
     } catch (error) {
       console.error(`Error reading file ${filePath}:`, error);
-      throw error; // Re-throw to be caught by route handlers
+      throw error; 
     }
   };
   

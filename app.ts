@@ -8,7 +8,7 @@ export const app = express();
 
 app.use(express.json());
 app.use(cors({credentials:true,origin:"*"}))
-app.use('/uploads',express.static(assetsDir)); // Serve static files from the 'uploads' directory
+app.use('/uploads',express.static(assetsDir)); 
 app.use('/products', productsRouter);
 
 

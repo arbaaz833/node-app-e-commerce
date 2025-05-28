@@ -2,7 +2,7 @@ import { Request, Response } from "express";
 import path from 'path';
 import { readData, writeData } from "../utils/fileUtils";
 import { Order, Product } from "../types";
-import fs from 'fs';
+
 
 const productsFilePath = path.join('data', 'products.json');
 const ordersFilePath = path.join('data', 'orders.json');
@@ -39,6 +39,7 @@ const create = async (req:Request, res:Response) => {
   const createOrder = async (req:Request, res:Response) => {
     try {
       const orders = await readData<Order>(ordersFilePath);
+      console.log("category",req.body.category);
       const newOrder = {
         orderId: `o${orders.length + 1}`,
         productId: req.body.productId,
@@ -82,20 +83,8 @@ const update = async (req:Request, res:Response):Promise<any> => {
 const orders = async (req:Request, res:Response) => {
     try {
       const orders = await readData<Order>(ordersFilePath);
-      if (fs.existsSync(path.join(uploadDir, 'logo.svg'))) {
-      console.log("FILE EXISTS");
-      }
-      // You might want to join product details here if needed for frontend
-      const products = await readData<Product>(productsFilePath);
-      const populatedOrders = orders.map(order => {
-         const product = products.find(p => p.id === order.productId);
-         return {
-             ...order,
-             productName: product ? product.name : 'Unknown Product',
-             category: product ? product.category : 'N/A'
-         };
-      });
-      res.status(200).json({data:populatedOrders});
+      
+      res.status(200).json({data:orders});
     } catch (error) {
       res.status(500).json({ error: 'Error fetching orders' });
     }

@@ -4507,5 +4507,14 @@
     "totalPrice": 378,
     "orderDate": "2025-05-28T14:06:18.785Z",
     "status": "Completed"
+  },
+  {
+    "orderId": "o502",
+    "productId": "p83",
+    "category": "Electronics",
+    "quantity": 2,
+    "totalPrice": 378,
+    "orderDate": "2025-05-28T14:41:50.885Z",
+    "status": "Completed"
   }
 ]
