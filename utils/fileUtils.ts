@@ -13,7 +13,7 @@ export const readData = async <T>(filePath:string):Promise<T[]> => {
   };
   
   
-  export const writeData = async (filePath:string, data:Product[]) => {
+  export const writeData = async <T=Product[]>(filePath:string, data:T) => {
     try {
       await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8');
     } catch (error) {

@@ -3,6 +3,7 @@ import productsController from './products.controller'
 import multer from 'multer'
 import path from 'path';
 import fs from 'fs';
+import { validateOrder } from './products.validation';
 
 const uploadDir = path.join('uploads');
 
@@ -23,6 +24,7 @@ const upload = multer({ storage: storage });
 
 productsRouter.get('/',productsController.get)
 productsRouter.post('/create',upload.single('file'),productsController.create)
+productsRouter.post('/create/order',validateOrder,productsController.createOrder)
 productsRouter.patch('/update/:id',productsController.update)
 productsRouter.get('/orders',productsController.orders)
 

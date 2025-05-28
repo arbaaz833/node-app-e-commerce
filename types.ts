@@ -13,6 +13,6 @@ export type Product = {
     productId: string;
     quantity: number;
     totalPrice: number;
-    orderDate: string;
+    orderDate: string | Date;
     status: string; 
   }

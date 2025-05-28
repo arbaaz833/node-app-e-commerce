@@ -36,6 +36,26 @@ const create = async (req:Request, res:Response) => {
     }
   }
 
+  const createOrder = async (req:Request, res:Response) => {
+    try {
+      const orders = await readData<Order>(ordersFilePath);
+      const newOrder = {
+        orderId: `o${orders.length + 1}`,
+        productId: req.body.productId,
+        category: req.body.category,
+        quantity: parseInt(req.body.quantity, 10),
+        totalPrice: parseFloat(req.body.totalPrice), 
+        orderDate: new Date(), 
+        status: 'Completed' 
+      };
+      orders.push(newOrder);
+      await writeData<Order[]>(ordersFilePath, orders);
+      res.status(201).json({data:newOrder});
+    } catch (error) {
+      res.status(500).json({ error: 'Error adding product' });
+    }
+  }
+
 const update = async (req:Request, res:Response):Promise<any> => {
     try {
       const products = await readData<Product>(productsFilePath);
@@ -85,6 +105,7 @@ const productsController = {
     get,
     create,
     update,
-    orders
+    orders,
+    createOrder
   };
   export default productsController;
